@@ -690,7 +690,7 @@
         "minecraft.jar-88": "1b6694d3c6d2246bfe479060bec24c12fbb66111",
         "minecraft.jar-1": "5538204f0a7f042f3d3f96f4c563939e5bda2295",
         "minecraft.jar-295": "03e41c19125d0b8f4890723f4673fd82478ec679",
-        "launcher.jar": "0ee9c692c8b18e20fae0f05423eb58c3649bfc10",
+        "launcher.jar": "2fca17008a09d33c6ad08318686319d4f938333b",
         "minecraft.jar-764": "125168a8b390254e24051e4c09740f6cfbcf0dc8",
         "minecraft.jar-733": "babb2411763d183723001fbda915363120abbae4",
         "minecraft.jar-97": "cc9b9960caf10e0d325f95c63aceafa3dab49405",
